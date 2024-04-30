@@ -1,6 +1,6 @@
 This repo contains my autoencoder practices. In order to see the training output of the notebooks, please open them in colab.
 
-Here's the link for each notebook:
+the link for each notebook:
 
 contractive autoencoder:
 
